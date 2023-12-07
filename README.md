@@ -56,7 +56,15 @@ alimentación de 3.3 V y su reloj funciona a 8 MHz.
 | ![](/Documentation/Images/Arduino-Bluetooth.jpg) | <p align="center"> Conexión Arduino-Bluetooth </p>|
 | ![](/Documentation/Images/Señal-ArduinoRuido.jpg) | <p align="center"> Señal ruido </p>|
 
-
+Durante los primeros instantes de observación, se logró 
+identificar una pequeña señal de electromiografía, cuya 
+principal característica fue su amplitud reducida y, en su 
+mayoría, por la presencia de ruido. Esta observación se atribuye 
+a la falta de conexión con un individuo o dispositivo que simule 
+el comportamiento eléctrico del músculo. La ausencia de un 
+componente que emule la actividad muscular limitó la 
+capacidad del Arduino Pro Mini para capturar una señal de 
+EMG significativa.
 
 ## Referencias
 
